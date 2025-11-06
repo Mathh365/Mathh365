@@ -2,7 +2,7 @@
 
 > 🚧 **Work in progress...** but good things are coming soon
 
-Hellow guys, I’m currently building this page — soon you’ll find some cool stuff about me here.  
+Hellow guys, I’m currently building this page, soon you’ll find some cool stuff about me here.  
 So... grab a coffee ☕ and check back later! :P  
 
 ---
@@ -11,7 +11,7 @@ So... grab a coffee ☕ and check back later! :P
 
 > 🚧 **Em construção...** mas prometo que vai valer a pena 
 
-Atualmente estou trabalhando nesta página, então esperem só mais um pouquinho —  
+Atualmente estou trabalhando nesta página, então esperem só mais um pouquinho, 
 em breve terá conteúdo sobre mim aqui pra vocês me conhecerem melhor.  
 Até lá, paciência e café! ☕ :P
 
