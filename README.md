@@ -40,7 +40,16 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![anachxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anachxz&theme=midnight-purple)
+![MIr4aii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathh365&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red)
+
+![Minhas principais linguagens / My main leangauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&langs_count=8)
+
+<a href="https://github.com/Mathh365/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathh365" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathh365&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
