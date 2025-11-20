@@ -44,11 +44,11 @@
 
 ![Minhas principais linguagens / My main leangauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&langs_count=8)
 
-<a href="https://github.com/Mathh365/github-readme-stats">
+<!-- <a href="https://github.com/Mathh365/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathh365" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathh365&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathh365&layout=compact&langs_count=8&card_width=320" /> -->
 </a>
 
 ---
@@ -62,6 +62,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Mathh365)
+<!-- ![Snake animation](https://github.com/Mathh365) -->
 
 ---
