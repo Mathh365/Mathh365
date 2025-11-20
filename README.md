@@ -46,7 +46,7 @@
     <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=mathh365&show=discussions_answered&hide=prs&show_icons=true&theme=shadow_red&border_radius=15&rank_icon=github&include_all_commits&ring_color=BC13FE&text_color="FFFFFF"/>
   </a>
   <a>
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&hide_title=true&theme=shadow_red&layout=compact&border_radius=15" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&hide_title=true&theme=shadow_red&border_radius=15" />
   </a>
 </div>
 
