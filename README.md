@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Linguagens que mais utilizo
+## Minhas linguagens💻
 
 <div>
     <img align="center" alt="C# (CSharp)" width="40" height="40"src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
@@ -24,9 +24,9 @@
 
 ---
 
-## 🛠 Projetos em destaque
+## Alguns de meus projetos 🛠
 
-## My PlayGround
+### PlayGround
 
 ##### Meus projetos e exercicios para pratica feitos em sala de aula, ou em estudos pessoais, incluindo as ideias iniciais do prototipo do meu jogo. ↴↴↴
 
