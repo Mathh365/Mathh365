@@ -42,7 +42,7 @@
 
 ![MIr4aii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathh365&show=discussions_answered&hide=prs&show_icons=true&theme=shadow_red&border_radius=15&rank_icon=github&include_all_commits&ring_color=BC13FE&text_color="FFFFFF")
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=dev-playground&border_radius=15&theme=transparent&text_color="FFFFFF"&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=dev-playground&border_radius=15&theme=transparent&show_owner=true)
 
 ![Minhas principais linguagens / My main leangauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&langs_count=8)
 
