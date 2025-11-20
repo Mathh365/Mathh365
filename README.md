@@ -15,19 +15,19 @@
 ---
 
 ## 💻 Linguagens que mais utilizo
-<!-- ![C# (CSHarp)](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)
-![Python](https://images.icon-icons.com/112/PNG/512/python_18894.png)
-![Java](https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png) -->
 
-<p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# (CSharp)" width="50" height="50"/>
-    <img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" alt="Python" width="50" height="50"/>
-    <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" alt="Java" width="50" height="50"/>
-</p>
+<div>
+    <img align="center" alt="C# (CSharp)" width="40" height="40"src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
+    <img align="center" alt="Python" width="40" height="40"src="https://images.icon-icons.com/112/PNG/512/python_18894.png"/>
+    <img align="center" alt="Java" width="40" height="40"src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png"/>
+</div>
+
+---
 
 ## 🛠 Projetos em destaque
 
-## My PlayGround 
+## My PlayGround
+
 ##### Meus projetos e exercicios para pratica feitos em sala de aula, ou em estudos pessoais, incluindo as ideias iniciais do prototipo do meu jogo. ↴↴↴
 
 [Clique aqui para ver no GitHub](https://github.com/Mathh365/dev-playground)  
@@ -41,12 +41,16 @@
 ## 📊 Minhas estatísticas no GitHub
 
 ![anachxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anachxz&theme=midnight-purple)
-[![Matheus Marcelo](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)
 
 ---
 
-## 📫 Me encontre
+## Entre em contato comigo
 
-[Instagram](https://instagram.com/iamanabauer) • [LinkedIn](https://linkedin.com/in/ana-clara-dos-reis-bauer-cesar-a048ba326)
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
