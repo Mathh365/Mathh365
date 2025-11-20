@@ -40,7 +40,9 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![MIr4aii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathh365&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_red)
+![MIr4aii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathh365&show=discussions_answered&hide=prs&show_icons=true&theme=shadow_red&border_radius=25&rank_icon=github&include_all_commits&ring_color=BC13FE)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Minhas principais linguagens / My main leangauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&langs_count=8)
 
