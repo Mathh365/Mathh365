@@ -42,19 +42,11 @@
 
 ![MIr4aii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathh365&show=discussions_answered&hide=prs&show_icons=true&theme=shadow_red&border_radius=15&rank_icon=github&include_all_commits&ring_color=BC13FE&text_color="FFFFFF")
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=dev-playground&border_radius=15&theme=transparent&show_owner=true)](https://github.com/Mathh365/dev-playground)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=TheFarmerWasReplaced&border_radius=15&theme=transparent&show_owner=true)](https://github.com/Mathh365/TheFarmerWasReplaced)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=Arduino-TinkerCad&border_radius=15&theme=transparent&show_owner=true)](https://github.com/Mathh365/Arduino-TinkerCad)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=dev-playground&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/dev-playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=TheFarmerWasReplaced&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/TheFarmerWasReplaced)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=Arduino-TinkerCad&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/Arduino-TinkerCad)
 
 ![Minhas principais linguagens / My main leangauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mathh365&langs_count=8)
-
-<!-- <a href="https://github.com/Mathh365/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathh365" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathh365&layout=compact&langs_count=8&card_width=320" /> -->
-</a>
 
 ---
 
