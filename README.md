@@ -50,6 +50,8 @@
   </a>
 </div>
 
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=dev-playground&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/dev-playground)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=TheFarmerWasReplaced&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/TheFarmerWasReplaced)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathh365&repo=Arduino-TinkerCad&border_radius=15&theme=transparent&show_owner=true&description_lines_count=2)](https://github.com/Mathh365/Arduino-TinkerCad)
