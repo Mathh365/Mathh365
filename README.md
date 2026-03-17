@@ -10,7 +10,7 @@
 ## Atualmente
 
 - Estudando **C# (CSharp)** e o ecossistema **DOTNET**
-- Trabalhando na criação de um jogo **Tower Defense** simples para a pratica de alguns conceitos.
+- Segundo semestre em Analise e Desenvolvimento de Sistemas na universidade UniFacens
 
 ---
 
@@ -24,11 +24,11 @@
 
 ---
 
-## Alguns de meus projetos 🛠
+## Alguns de meus repositorios 🛠
 
 ### PlayGround
 
-##### Meus projetos e exercicios para pratica feitos em sala de aula, ou em estudos pessoais, incluindo as ideias iniciais do prototipo do meu jogo. ↴↴↴
+##### Meus exercicios de pratica feitos em sala de aula, ou em estudos pessoais. ↴↴↴
 
 [Clique aqui para ver no GitHub](https://github.com/Mathh365/dev-playground)  
 
